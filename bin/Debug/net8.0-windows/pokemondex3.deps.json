@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pokemondex3/1.0.0": {
+        "runtime": {
+          "pokemondex3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pokemondex3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
