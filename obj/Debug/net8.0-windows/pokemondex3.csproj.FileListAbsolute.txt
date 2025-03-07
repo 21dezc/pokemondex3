@@ -15,9 +15,10 @@ C:\chom\pokemondex3\obj\Debug\net8.0-windows\pokemondex3.pdb
 C:\chom\pokemondex3\obj\Debug\net8.0-windows\pokemondex3.genruntimeconfig.cache
 C:\chom\pokemondex3\obj\Debug\net8.0-windows\ref\pokemondex3.dll
 C:\chom\pokemondex3\obj\Debug\net8.0-windows\pokemondex3.Properties.Resources.resources
-C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\alcremie.jpg
 C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\mew.jpg
-C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\Pikachu.jpg
 C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\swirlix.jpg
-C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\sylveon.jpg
 C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\whismur.jpg
+C:\chom\pokemondex3\obj\Debug\net8.0-windows\pokemondex3.sourcelink.json
+C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\Alcremie.jpg
+C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\Pikachu.jpg
+C:\chom\pokemondex3\bin\Debug\net8.0-windows\Images\Sylveon.jpg

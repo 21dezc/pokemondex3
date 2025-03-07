@@ -46,7 +46,7 @@
             // 
             pictureBox1.BackColor = Color.WhiteSmoke;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(54, 88);
+            pictureBox1.Location = new Point(50, 97);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(281, 286);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -57,9 +57,9 @@
             // 
             btnPikachu.BackColor = Color.Linen;
             btnPikachu.ForeColor = Color.FromArgb(64, 64, 64);
-            btnPikachu.Location = new Point(34, 41);
+            btnPikachu.Location = new Point(38, 34);
             btnPikachu.Name = "btnPikachu";
-            btnPikachu.Size = new Size(94, 29);
+            btnPikachu.Size = new Size(84, 36);
             btnPikachu.TabIndex = 1;
             btnPikachu.Text = "Pikachu";
             btnPikachu.UseVisualStyleBackColor = false;
@@ -69,9 +69,9 @@
             // 
             btnMew.BackColor = Color.MistyRose;
             btnMew.ForeColor = Color.FromArgb(64, 64, 64);
-            btnMew.Location = new Point(153, 41);
+            btnMew.Location = new Point(149, 34);
             btnMew.Name = "btnMew";
-            btnMew.Size = new Size(94, 29);
+            btnMew.Size = new Size(84, 36);
             btnMew.TabIndex = 2;
             btnMew.Text = "Mew";
             btnMew.UseVisualStyleBackColor = false;
@@ -81,9 +81,9 @@
             // 
             btnAlcremie.BackColor = Color.Linen;
             btnAlcremie.ForeColor = Color.FromArgb(64, 64, 64);
-            btnAlcremie.Location = new Point(275, 41);
+            btnAlcremie.Location = new Point(261, 34);
             btnAlcremie.Name = "btnAlcremie";
-            btnAlcremie.Size = new Size(94, 29);
+            btnAlcremie.Size = new Size(84, 36);
             btnAlcremie.TabIndex = 3;
             btnAlcremie.Text = "Alcremie";
             btnAlcremie.UseVisualStyleBackColor = false;
@@ -93,9 +93,9 @@
             // 
             btnSwirlix.BackColor = Color.MistyRose;
             btnSwirlix.ForeColor = Color.FromArgb(64, 64, 64);
-            btnSwirlix.Location = new Point(396, 41);
+            btnSwirlix.Location = new Point(373, 34);
             btnSwirlix.Name = "btnSwirlix";
-            btnSwirlix.Size = new Size(94, 29);
+            btnSwirlix.Size = new Size(84, 36);
             btnSwirlix.TabIndex = 4;
             btnSwirlix.Text = "Swirlix";
             btnSwirlix.UseVisualStyleBackColor = false;
@@ -105,9 +105,9 @@
             // 
             btnSylveon.BackColor = Color.Linen;
             btnSylveon.ForeColor = Color.FromArgb(64, 64, 64);
-            btnSylveon.Location = new Point(516, 41);
+            btnSylveon.Location = new Point(486, 34);
             btnSylveon.Name = "btnSylveon";
-            btnSylveon.Size = new Size(94, 29);
+            btnSylveon.Size = new Size(84, 36);
             btnSylveon.TabIndex = 5;
             btnSylveon.Text = "Sylveon";
             btnSylveon.UseVisualStyleBackColor = false;
@@ -117,9 +117,9 @@
             // 
             btnWhismur.BackColor = Color.MistyRose;
             btnWhismur.ForeColor = Color.FromArgb(64, 64, 64);
-            btnWhismur.Location = new Point(639, 41);
+            btnWhismur.Location = new Point(600, 34);
             btnWhismur.Name = "btnWhismur";
-            btnWhismur.Size = new Size(94, 29);
+            btnWhismur.Size = new Size(84, 36);
             btnWhismur.TabIndex = 6;
             btnWhismur.Text = "Whismur";
             btnWhismur.UseVisualStyleBackColor = false;
@@ -130,7 +130,7 @@
             lbName.AutoSize = true;
             lbName.BorderStyle = BorderStyle.FixedSingle;
             lbName.ForeColor = Color.FromArgb(64, 64, 64);
-            lbName.Location = new Point(355, 97);
+            lbName.Location = new Point(355, 100);
             lbName.Name = "lbName";
             lbName.Size = new Size(51, 22);
             lbName.TabIndex = 7;
@@ -141,7 +141,7 @@
             lbType.AutoSize = true;
             lbType.BorderStyle = BorderStyle.FixedSingle;
             lbType.ForeColor = Color.FromArgb(64, 64, 64);
-            lbType.Location = new Point(355, 125);
+            lbType.Location = new Point(355, 131);
             lbType.Name = "lbType";
             lbType.Size = new Size(42, 22);
             lbType.TabIndex = 8;
@@ -151,7 +151,7 @@
             // 
             lbStats.AutoSize = true;
             lbStats.ForeColor = Color.FromArgb(64, 64, 64);
-            lbStats.Location = new Point(355, 160);
+            lbStats.Location = new Point(355, 161);
             lbStats.Name = "lbStats";
             lbStats.Size = new Size(75, 20);
             lbStats.TabIndex = 9;
@@ -162,7 +162,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Snow;
-            ClientSize = new Size(766, 450);
+            ClientSize = new Size(727, 417);
             Controls.Add(lbStats);
             Controls.Add(lbType);
             Controls.Add(lbName);

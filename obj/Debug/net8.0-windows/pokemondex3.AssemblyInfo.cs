@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pokemondex3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ddf7431490612450794059ee8c244eb7a657e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("pokemondex3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pokemondex3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

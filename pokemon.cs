@@ -20,7 +20,7 @@ namespace pokemondex3
 
         public int Speed { get; set; }
 
-        // คำนวณค่าพลังรวมอัตโนมัติ
+        // คำนวณค่าพลังรวมอัตโนมัติg
         public int Total => HP + Attack + Defense + Speed + SpecialAttack + SpecialDefense;
 
         // คอนสตรักเตอร์ให้คลาสลูกใช้งาน
