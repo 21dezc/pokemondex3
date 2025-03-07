@@ -20,10 +20,10 @@ namespace pokemondex3
 
         public int Speed { get; set; }
 
-        // คำนวณค่าพลังรวมอัตโนมัติg
+        
         public int Total => HP + Attack + Defense + Speed + SpecialAttack + SpecialDefense;
 
-        // คอนสตรักเตอร์ให้คลาสลูกใช้งาน
+      
         public Pokemon(string name, string type, double height, double weight, int hp, int attack, int defense, int specialattack, int specialdefense, int speed)
         {
             Name = name;
