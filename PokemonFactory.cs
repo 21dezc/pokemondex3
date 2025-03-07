@@ -19,7 +19,7 @@ namespace pokemondex3
                 case "Swirlix": return new Swirlix();
                 case "Sylveon": return new Sylveon();
 
-                // เพิ่มตัวอื่นๆ ตามที่มี
+               
                 default: return null;
             }
         }
